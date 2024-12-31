@@ -11,32 +11,6 @@ const Logo = () => {
         <h1 className="heading">HTML<span>&</span>CSS</h1>
         <p className="para">design and build websites</p>
       </div>
-
-      <div className="text">
-        <h1 className="heading">HTML<span>&</span>CSS</h1>
-        <p className="para">design and build websites</p>
-      </div>
-      <div className="text">
-        <h1 className="heading">HTML<span>&</span>CSS</h1>
-        <p className="para">design and build websites</p>
-      </div>
-      <div className="text">
-        <h1 className="heading">HTML<span>&</span>CSS</h1>
-        <p className="para">design and build websites</p>
-      </div>
-      <div className="text">
-        <h1 className="heading">HTML<span>&</span>CSS</h1>
-        <p className="para">design and build websites</p>
-      </div>
-      <div className="text">
-        <h1 className="heading">HTML<span>&</span>CSS</h1>
-        <p className="para">design and build websites</p>
-      </div>
-      <div className="text">
-        <h1 className="heading">HTML<span>&</span>CSS</h1>
-        <p className="para">design and build websites</p>
-      </div>
-      
     </div>
   );
 };
